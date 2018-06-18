@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post_jonathan_pigree
 title:  "My first post on Infrastructure Overload!"
 date:   2018-06-10 16:28:00
 categories: general
