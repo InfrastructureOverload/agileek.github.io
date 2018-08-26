@@ -1,7 +1,7 @@
 # Site settings
 title: Infrastructure Overload
 email: jonathan.pigree@gmail.com
-description: "A blog about Devops thingies"
+description: "A blog about my journey as an Infrastructure engineer"
 baseurl: "/"
 url: "https://infrastructureoverload.github.io"
 github_username:  jpigree
