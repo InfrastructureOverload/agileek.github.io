@@ -11,4 +11,4 @@ My idea is to write posts on what I work on a monthly basis which is implementin
 
 As a professional, my main point of interests are OpenSource Softwares, Linux and programming. Yes that is pretty broad, which is great as I will always find something cool to be curious about. :)
 
-Nowadays, I am mostly containerizing applications, and managing/learning Kubernetes clusters.
+Nowadays, I am mostly containerizing applications, and managing Kubernetes clusters.
