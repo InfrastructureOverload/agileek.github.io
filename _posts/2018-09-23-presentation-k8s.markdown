@@ -1,7 +1,7 @@
 ---
 layout: post_jonathan_pigree
 title:  "Kubernetes 101 at TahitiDevOps meetup"
-date:   2018-06-10 16:28:00
+date:   2018-09-23 16:28:00
 categories: general
 ---
 Hi everyone. I made a free practical initiation the 5th September 2018 for the TahitiDevOps meetup. As always, the presentation is Open Source and available [here](https://github.com/jpigree/k8s-101-presentation).
